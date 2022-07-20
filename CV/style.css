@@ -1,0 +1,33 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+
+.container
+{
+	margin: 0px;
+	padding: 10px;
+
+}
+
+img
+{
+	float: left;
+
+}
+
+.headings
+{
+	text-align: justify;
+}
+
+.info
+{
+	padding: 10px;
+}
+
+table,th,td
+{
+	border: 1px solid black;
+}
